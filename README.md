@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c2318&height=120&section=header&text=Gabriela+Guedes&fontSize=50&fontColor=fff&animation=twinkling&fontAligny=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40122c&height=120&section=header&text=Gabriela+Guedes&fontSize=50&fontColor=fff&animation=twinkling&fontAligny=35"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40122c&size=35=&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriela+Guedes;I'm+21+years+old;I+am+from+Brasil,+RJ;I+study+analysis+and+systems+development;and+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35=&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriela+Guedes;I'm+21+years+old;I+am+from+Brasil,+RJ;I+study+analysis+and+systems+development;and+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
@@ -9,7 +9,7 @@
 <div style="display: inline_block" align="center">
     <br>
     <a href="https://github.com/gabrielaguedes12">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabrielaguedes12&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true&hide_border=false&bg_color=40122c&title_color=ff652f&border_color=2e343b"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabrielaguedes12&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true&hide_border=false&bg_color=726c81&title_color=ff652f&border_color=2e343b"/>
     <img height="150em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielaguedes12&layout=compact&langs_count=8&theme=maroongold&hide_border=false&bg_color=0d1117&title_color=ff652f&border_color=2e343b&langs_count=6"/>
     </a>
 </div>
