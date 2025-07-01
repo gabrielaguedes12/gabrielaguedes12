@@ -10,7 +10,7 @@
     <br>
     <a href="https://github.com/gabrielaguedes12">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabrielaguedes12&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=ff652f&border_color=2e343b"/>
-    <img height="150em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielaguedes12&layout=compact&langs_count=8&theme=maroongold&hide_border=false&bg_color=0d1117&title_color=ff652f&border_color=2e343b&langs_count=6"/>
+    <img height="150em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielaguedes12&layout=compact&langs_count=8&theme=maroongold&hide_border=false&bg_color=0d1117&title_color=40122c&border_color=2e343b&langs_count=6"/>
     </a>
 </div>
   
