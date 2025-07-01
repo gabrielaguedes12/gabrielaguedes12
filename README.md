@@ -45,7 +45,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 
 ### 🌐 Frontend & Estilização
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
+<img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="40" height="40" alt="Next.js"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js"/>
 
 ### 🔗 APIs
