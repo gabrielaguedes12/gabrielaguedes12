@@ -18,17 +18,19 @@
 ### 💻 Tecnologias que utilizo
 
 <div align="center">
-  
-#### 🧠 Linguagens
 
+#### 🧠 Linguagens
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 
 #### 🌐 Frontend
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+
+#### 🗄️ Banco de Dados
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
 
 </div>
 
